@@ -1,4 +1,4 @@
-# eruul-hoollolt
+eruulhoollolt.github.io
 <!DOCTYPE html>
 <html lang="mn">
 <head>
